@@ -1,0 +1,7 @@
+sakurailib
+==========
+
+.. toctree::
+   :maxdepth: 4
+
+   sakurailib

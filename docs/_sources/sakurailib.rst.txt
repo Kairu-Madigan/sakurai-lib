@@ -1,0 +1,17 @@
+sakurailib package
+==================
+
+Submodules
+----------
+
+.. toctree::
+
+   sakurailib.text
+
+Module contents
+---------------
+
+.. automodule:: sakurailib
+    :members:
+    :undoc-members:
+    :show-inheritance:

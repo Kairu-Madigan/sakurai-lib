@@ -1,0 +1,7 @@
+sakurailib.text module
+======================
+
+.. automodule:: sakurailib.text
+    :members:
+    :undoc-members:
+    :show-inheritance:
